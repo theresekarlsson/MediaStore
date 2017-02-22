@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2010\Projects\MediaStore\MediaStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\MediaStore\MediaStore\obj\x86\Debug\MediaStore.View.resources
+C:\Users\User\documents\visual studio 2010\Projects\MediaStore\MediaStore\obj\x86\Debug\MediaStore.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\MediaStore\MediaStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\MediaStore\MediaStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\MediaStore\MediaStore\bin\Debug\MediaStore.exe
+C:\Users\User\documents\visual studio 2010\Projects\MediaStore\MediaStore\bin\Debug\MediaStore.pdb
+C:\Users\User\documents\visual studio 2010\Projects\MediaStore\MediaStore\obj\x86\Debug\MediaStore.exe
+C:\Users\User\documents\visual studio 2010\Projects\MediaStore\MediaStore\obj\x86\Debug\MediaStore.pdb
