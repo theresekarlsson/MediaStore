@@ -1,5 +1,7 @@
 # MediaStore
 
+Laborationsuppgift från kurs på Karlstad universitet.
+
 Översikt: Gör ett affärssystem till en fysisk affär som säljer media (böcker, cd/dvd, spel
 och liknande). Systemet ska användas av anställda i affären och kunna hantera både
 kassahantering och lagerhållning. 
